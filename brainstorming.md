@@ -1,5 +1,4 @@
-#App Brainstorming
-
+# App Brainstorming
 
 ## Favorite Existing Apps
 1. Pinterest
